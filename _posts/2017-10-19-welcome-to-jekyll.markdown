@@ -5,7 +5,7 @@ date:   2017-03-14 20:00:00
 categories: jekyll
 ---
 
-I had been talking a long time about starting my personal blog. I wanted to start writing articles about the problems I encounter and the solutions and workarounds I use on a daily basis.
+I had been thinking for a long time about starting my personal blog. I will start to write articles about the problems I encounter and the solutions and workarounds I use on a daily basis.
 
 I stumbled upon [Jekyll](https://jekyllrb.com/), read the documentation and got started.
 
