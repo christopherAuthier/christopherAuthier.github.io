@@ -16,7 +16,7 @@
 title: La touche à Chris
 email: info@chrisauthier.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Développeur PHP ayant une bonne expérience avec Laravel, Drupal et MySQL.
+  Sysadmin/Developer with good experience with Drupal and Laravel applications. I am just starting to discover docker, witness with me the revolution of containers!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _ChrisAuthier
